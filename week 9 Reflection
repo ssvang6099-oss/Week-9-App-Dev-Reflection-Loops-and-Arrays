@@ -1,0 +1,64 @@
+# Week 9 Reflection: Weeks 6-8
+
+# Name:Sihak Svang
+
+## Project Or App Name: “FiveNightAtFreddy’s” 
+
+## Part 1: Development Process
+Describe how you moved from story or app idea into folders, files, documentation, JSON, and testing.
+
+“It first came up as an ideal and then a little brain storm, then came the documentation part. The hard part was the coding part and the testing part, running and fixing errors. Then I learned how to save files into the JSON folder rather than on my desktop.”
+
+ ## Part 2: Querying And Research 
+
+List at least three things you searched, asked, watched, tested, or read.
+
+1.) Where I looked. I look for information  on Google, Chat, and watch a little bit on youtube.
+
+2.) What I learned. I learned a little bit about Array and Loop. I learned about the difference  between Console App  and Console App .NET Framework.
+
+3.) How I used It. I used Array by asking “How Old Are You”, a group of values stored under one variable name. I used Loop in my Sub Main, whenever you choose 1,2,3 or 4 and type ENTER it brings you back to the menu. I used the Module1.vb for the program file and ran an error, but as soon as I ran the Program.vb program file it ran without any error and the app ran perfectly. 
+
+## Part 3: Code Does Not Live Alone
+Explain how code connects to soft skills, hard skills, collaboration, machines, documentation, and communication. Soft skills help me understand the basics of Visual Studio and learn how to debug and fix errors. Hard skill will take a little longer because you have to practice and practice on learning and creating more VB.net applications. We use discord to help and collaborate with each other as teams. Visual Studio is a great machine to create and build apps. Visual Studio has a great documentation where you could store comments for other programmers to understand the code and that helps out on the communication part.  
+
+
+
+
+
+## Part 4: What I would Change
+If you could redo week 6-8, what would you organize, document, ask, test, or submit differently?
+ If I had a chance to redo week 6-8, I would probably pick a Movie genre. I would organize the main characters, I would document their skill set, and ask what the whole purpose of this character is. Then I would test my idea and put it into the app. I save all my files and put it into a Github and submit it.   
+
+##Part 5: week 9 Coding Practice
+Explain both required coding pathways.
+I learned that Console Apps and Windows Apps are different. Console Apps run only on command prompt on the window. Well Window Apps has a graphical user interface. 
+
+### Pathway A: Text Starter Code
+Explain what the provided starter code does after you get it running in Visual Studio.
+
+-Array used: “How Old Are You”
+-Loop used to display choices: Choose an option: 1. 2. 3. 4. or 0. “Mini Menu”
+-Loop used to repeat the program: By pushing “ENTER” back to the main menu.
+-Three choices I changed: 1.) “How Old Are You?”  2.) “CLOSEDDoor”  3.) “openDoor”
+
+
+### Pathway B: Video Tutorial 
+Explain what you build by following the VB.NET loops video.
+
+-Project from the video:
+-Loop or loops used:
+-My small personal changed:
+-Screenshot location:
+
+## Part 6: Git Submission Map 
+Your root README must explain where the instructor can find every item you want graded.
+
+-Reflection location:
+-Query log location:
+-Pathway A text starter project location:
+-Pathway B video tutorial project location:
+-Screenshots location:
+-Discord proof location:
+-README location:
+
